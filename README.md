@@ -26,7 +26,7 @@ git clone https://github.com/danielagar320/LABORATORIO-03-AREP.git
 
 * Entrar al browser que desee e ingresar la siguiente direccion: 
 
-http://localhost:35000/apps/  
+http://localhost:35000/  
 
 puede ingresar index, style, image o main para ver los diferentes archivos.
 
